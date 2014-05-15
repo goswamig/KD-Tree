@@ -1,0 +1,13 @@
+Vitaly Give the introduction 
+With KdTreevisualization
+
+java KdTreeVisualizer 
+
+
+I will do analysis with Query part
+ java RangeSearchVisualizer input10.txt
+ drag the demo for rectangular search
+
+brute force will check every point
+KD tree sqrt(n) 
+ 

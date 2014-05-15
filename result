@@ -1,0 +1,60 @@
+experiment 5
+Time Taken by Brute Force 646235 
+Time Taken by KDTree 44092 
+experiment 10
+Time Taken by Brute Force 367265 
+Time Taken by KDTree 26210 
+
+experiment 100
+Time Taken by Brute Force 754875 
+Time Taken by KDTree 45681 
+experiment 200
+Time Taken by Brute Force 846545 
+Time Taken by KDTree 55057 
+
+experiment 300
+Time Taken by Brute Force 1033906 
+Time Taken by KDTree 63575 
+
+experiment 400
+Time Taken by Brute Force 1218779 
+Time Taken by KDTree 65037
+
+experiment 500
+Time Taken by Brute Force 1311373 
+Time Taken by KDTree 67538 
+
+experiment 600
+Time Taken by Brute Force 1336949 
+Time Taken by KDTree 67678 
+
+experiment 700
+Time Taken by Brute Force 1453414 
+Time Taken by KDTree 67739 
+
+experiment 800
+Time Taken by Brute Force 1481777 
+Time Taken by KDTree 73970 
+
+experiment 900
+Time Taken by Brute Force 1616744 
+Time Taken by KDTree 79437 
+ 
+experiment 1000
+Time Taken by Brute Force 1828981 
+Time Taken by KDTree 80699
+
+experiment 2000
+Time Taken by Brute Force 2681451 
+Time Taken by KDTree 100229 
+
+
+experiment 3000
+Time Taken by Brute Force 2769417 
+Time Taken by KDTree 130246 
+
+
+experiment 15000
+Time Taken by Brute Force 7414812 
+Time Taken by KDTree 265144 
+
